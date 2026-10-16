@@ -1,0 +1,11 @@
+# IntelliJ internal settings cache
+.idea/
+*.iml
+out/
+
+# Compiled Java outputs
+*.class
+
+# Python runtime environment cache
+__pycache__/
+*.pyc
